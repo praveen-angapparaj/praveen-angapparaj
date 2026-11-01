@@ -1,8 +1,8 @@
-<div align="center">
 
+<div align="center">
   <img
-    src="koi/koi.gif"
-    width="350"
-    alt="Animated GitHub Koi"
+    src="./assets/bully-maguire-dance.gif"
+    alt="Bully Maguire Dance"
+    width="480"
   />
 </div>
