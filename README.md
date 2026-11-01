@@ -2,7 +2,7 @@
 
   <img
     src="koi/koi.gif"
-    width="300"
+    width="350"
     alt="Animated GitHub Koi"
   />
 </div>
