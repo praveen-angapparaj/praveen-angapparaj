@@ -1,8 +1,6 @@
 
 <div align="center">
-  <img
-    src="./assets/bully-maguire-dance.gif"
-    alt="Bully Maguire Dance"
-    width="480"
-  />
+  <img src="./bully-maguire-dance.gif"
+       width="480"
+       alt="Bully Maguire Dance">
 </div>
